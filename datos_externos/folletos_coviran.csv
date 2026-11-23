@@ -1,0 +1,23 @@
+inicio,fin,zona,tipo_fuente,fuente,url
+2024-01-23,2024-02-03,nacional,secundaria,"Revista Aral, nota de prensa de Covirán (23-01-2024)",https://www.revistaaral.com/texto-diario/mostrar/4690602/coviran-presenta-campana-promocion-productos-marca-propia
+2024-05-28,2024-06-08,suroriental,oficial,"Folleto oficial de la zona suroriental, portada (Internet Archive, captura del 2024-06-01)",https://web.archive.org/web/20240601101254/https://folleto.coviran.es/suroriental/files/assets/common/page-vectorlayers/0001.svg?uni=351f7d1bd86d94b06cde7b40ffb157ae
+2024-06-25,2024-07-06,desconocida,secundaria,"YouTube, título del vídeo",https://www.youtube.com/watch?v=M9tKpPnwyxU
+2024-10-01,2024-10-12,desconocida,secundaria,"YouTube, título del vídeo",https://www.youtube.com/watch?v=wTznt3yWUAo
+2024-10-29,2024-11-09,desconocida,secundaria,"Ofertero, título de la página",https://www.ofertero.es/coviran/ofertas-desde-martes-29-10-2024-53898/
+2024-11-26,2024-12-11,desconocida,secundaria,"YouTube, título del vídeo; fin según el resumen del buscador (Kimbino, Fabero)",https://www.youtube.com/watch?v=kJWU_ztWLcA
+2024-12-13,2024-12-31,desconocida,secundaria,"Freshlando, resumen del buscador",https://www.freshlando.com/es/coviran
+2025-01-02,2025-01-11,desconocida,secundaria,"YouTube, resumen del buscador (búsqueda del 2026-10-07, sin URL del vídeo)",
+2025-01-14,2025-01-25,desconocida,secundaria,"YouTube, resumen del buscador (búsqueda del 2026-10-07, sin URL del vídeo)",
+2025-01-28,2025-02-08,desconocida,secundaria,"Ofertero, título de la página",https://www.ofertero.es/coviran/ofertas-desde-martes-28-01-2025-60435/
+2025-05-06,2025-05-17,desconocida,secundaria,"Ofertero, título de la página",https://www.ofertero.es/coviran/ofertas-desde-martes-06-05-2025-66861/
+2025-06-17,2025-06-28,desconocida,secundaria,"Ofertero, título de la página",https://www.ofertero.es/coviran/ofertas-desde-martes-17-06-2025-69344/
+2025-07-29,2025-08-09,desconocida,secundaria,"Ofertero, título de la página",https://www.ofertero.es/coviran/ofertas-desde-martes-29-07-2025-71804/
+2025-08-12,2025-08-23,suroriental,oficial,"Folleto oficial de la zona suroriental, portada (Internet Archive, captura del 2025-08-16)",https://web.archive.org/web/20250816092149/https://folleto.coviran.es/suroriental/files/assets/common/page-vectorlayers/0001.svg?uni=1c5c6f7da1f91fc053f4f4389aabaa11
+2025-11-18,2025-11-29,desconocida,secundaria,"Kimbino, título de la página",https://www.kimbino.es/coviran/coviran-ofertas-desde-martes-18-11-2025-4450144/
+2025-12-16,,desconocida,secundaria,"Ofertero, título de la página (solo inicio)",https://www.ofertero.es/coviran/ofertas-desde-martes-16-12-2025-81491/
+2026-02-24,,Ávila,secundaria,"Ofertero, título de la página (solo inicio)",https://www.ofertero.es/coviran/avila-desde-martes-24022026-85448/
+2026-05-19,,Figueres,secundaria,"Ofertero, título de la página (solo inicio)",https://www.ofertero.es/coviran/coviran-figueres-desde-martes-19052026-90535/
+2026-06-30,,desconocida,secundaria,"Ofertero, título de la página (solo inicio)",https://www.ofertero.es/coviran/
+2026-08-11,2026-08-22,la tienda,tienda,"Correo de la tienda (2026-08-25)",
+2026-08-25,2026-09-05,la tienda,tienda,"Correo de la tienda (2026-08-25)",
+2026-10-06,2026-10-17,suroriental,oficial,"Folleto oficial vigente de la zona suroriental (consultado el 2026-10-07); lo confirma la etiqueta de oferta del lineal de la tienda (foto del 2026-10-06 en datos_bruto/)",https://folleto.coviran.es/suroriental/files/assets/common/downloads/publication.pdf

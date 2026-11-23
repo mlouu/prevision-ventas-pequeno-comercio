@@ -1,0 +1,57 @@
+fecha,anio,dia_semana,nombre,ambito,movil,trasladado,fecha_natural,fuente,fuente_referencia,apertura
+2023-01-02,2023,lunes,Año Nuevo,nacional,no,si,2023-01-01,oficial,Calendario laboral oficial,cerrado_fijo
+2023-01-06,2023,viernes,Epifanía del Señor,nacional,no,no,2023-01-06,oficial,Calendario laboral oficial,cerrado_fijo
+2023-02-28,2023,martes,Día de Andalucía,autonomico,no,no,2023-02-28,oficial,Calendario laboral oficial,pendiente
+2023-04-06,2023,jueves,Jueves Santo,nacional,si,no,2023-04-06,oficial,Calendario laboral oficial,pendiente
+2023-04-07,2023,viernes,Viernes Santo,nacional,si,no,2023-04-07,oficial,Calendario laboral oficial,pendiente
+2023-05-01,2023,lunes,Día del Trabajo,nacional,no,no,2023-05-01,oficial,Calendario laboral oficial,pendiente
+2023-08-15,2023,martes,Asunción de la Virgen,nacional,no,no,2023-08-15,oficial,Calendario laboral oficial,pendiente
+2023-09-18,2023,lunes,Fiesta local,local,no,no,2023-09-18,oficial,Calendario laboral oficial; fecha de fiesta local sin confirmar con la tienda,pendiente
+2023-09-25,2023,lunes,Fiesta local,local,no,no,2023-09-25,oficial,Calendario laboral oficial; fecha de fiesta local sin confirmar con la tienda,pendiente
+2023-10-12,2023,jueves,Fiesta Nacional de España,nacional,no,no,2023-10-12,oficial,Calendario laboral oficial,pendiente
+2023-11-01,2023,miércoles,Todos los Santos,nacional,no,no,2023-11-01,oficial,Calendario laboral oficial,pendiente
+2023-12-06,2023,miércoles,Día de la Constitución,nacional,no,no,2023-12-06,oficial,Calendario laboral oficial,pendiente
+2023-12-08,2023,viernes,Inmaculada Concepción,nacional,no,no,2023-12-08,oficial,Calendario laboral oficial,pendiente
+2023-12-25,2023,lunes,Navidad,nacional,no,no,2023-12-25,oficial,Calendario laboral oficial,cerrado_fijo
+2024-01-01,2024,lunes,Año Nuevo,nacional,no,no,2024-01-01,oficial,Calendario laboral oficial,cerrado_fijo
+2024-01-06,2024,sábado,Epifanía del Señor,nacional,no,no,2024-01-06,oficial,Calendario laboral oficial,cerrado_fijo
+2024-02-28,2024,miércoles,Día de Andalucía,autonomico,no,no,2024-02-28,tienda,"Email de la tienda, 2026-08-25 (2º): 'Los días de Andalucía NO se abrió en 2024 y 2025, en 2026 SÍ'",cerrado
+2024-03-28,2024,jueves,Jueves Santo,nacional,si,no,2024-03-28,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2024-03-29,2024,viernes,Viernes Santo,nacional,si,no,2024-03-29,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2024-05-01,2024,miércoles,Día del Trabajo,nacional,no,no,2024-05-01,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2024-08-15,2024,jueves,Asunción de la Virgen,nacional,no,no,2024-08-15,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2024-09-16,2024,lunes,Primera fiesta local,local,no,no,2024-09-16,tienda,"Dato de la tienda (correo del 2026-08-25, reconfirmado el 2026-10-21)",manana
+2024-09-30,2024,lunes,Segunda fiesta local,local,no,no,2024-09-30,tienda,"Dato de la tienda (correo del 2026-08-25, reconfirmado el 2026-10-21). La tienda recuerda haber cerrado el lunes 23; se mantiene el 30 por el patrón de 2025 y 2026 y por la venta de esas semanas",cerrado
+2024-10-12,2024,sábado,Fiesta Nacional de España,nacional,no,no,2024-10-12,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2024-11-01,2024,viernes,Todos los Santos,nacional,no,no,2024-11-01,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2024-12-06,2024,viernes,Día de la Constitución,nacional,no,no,2024-12-06,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2024-12-09,2024,lunes,Inmaculada Concepción,nacional,no,si,2024-12-08,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2024-12-25,2024,miércoles,Navidad,nacional,no,no,2024-12-25,oficial,Calendario laboral oficial,cerrado_fijo
+2025-01-01,2025,miércoles,Año Nuevo,nacional,no,no,2025-01-01,oficial,Calendario laboral oficial,cerrado_fijo
+2025-01-06,2025,lunes,Epifanía del Señor,nacional,no,no,2025-01-06,oficial,Calendario laboral oficial,cerrado_fijo
+2025-02-28,2025,viernes,Día de Andalucía,autonomico,no,no,2025-02-28,tienda,"Email de la tienda, 2026-08-25 (2º): 'Los días de Andalucía NO se abrió en 2024 y 2025, en 2026 SÍ'",cerrado
+2025-04-17,2025,jueves,Jueves Santo,nacional,si,no,2025-04-17,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2025-04-18,2025,viernes,Viernes Santo,nacional,si,no,2025-04-18,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2025-05-01,2025,jueves,Día del Trabajo,nacional,no,no,2025-05-01,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2025-08-15,2025,viernes,Asunción de la Virgen,nacional,no,no,2025-08-15,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2025-09-22,2025,lunes,Primera fiesta local,local,no,si,2025-09-21,tienda,"Dato de la tienda (correo del 2026-08-25, reconfirmado el 2026-10-21)",cerrado
+2025-09-29,2025,lunes,Segunda fiesta local,local,no,si,2025-09-28,tienda,"Dato de la tienda (correo del 2026-08-25, reconfirmado el 2026-10-21)",cerrado
+2025-10-13,2025,lunes,Fiesta Nacional de España,nacional,no,si,2025-10-12,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2025-11-01,2025,sábado,Todos los Santos,nacional,no,no,2025-11-01,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2025-12-06,2025,sábado,Día de la Constitución,nacional,no,no,2025-12-06,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2025-12-08,2025,lunes,Inmaculada Concepción,nacional,no,no,2025-12-08,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2025-12-25,2025,jueves,Navidad,nacional,no,no,2025-12-25,oficial,Calendario laboral oficial,cerrado_fijo
+2026-01-01,2026,jueves,Año Nuevo,nacional,no,no,2026-01-01,oficial,Calendario laboral oficial,cerrado_fijo
+2026-01-06,2026,martes,Epifanía del Señor,nacional,no,no,2026-01-06,oficial,Calendario laboral oficial,cerrado_fijo
+2026-02-28,2026,sábado,Día de Andalucía,autonomico,no,no,2026-02-28,tienda,"Email de la tienda, 2026-08-25 (2º): 'Los días de Andalucía NO se abrió en 2024 y 2025, en 2026 SÍ'",manana
+2026-04-02,2026,jueves,Jueves Santo,nacional,si,no,2026-04-02,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",manana
+2026-04-03,2026,viernes,Viernes Santo,nacional,si,no,2026-04-03,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2026-05-01,2026,viernes,Día del Trabajo,nacional,no,no,2026-05-01,tienda,"Email de la tienda, 2026-08-25 (rojo=cerrado, verde=9:30-13:30)",cerrado
+2026-08-15,2026,sábado,Asunción de la Virgen,nacional,no,no,2026-08-15,oficial,Calendario laboral oficial,pendiente
+2026-09-21,2026,lunes,Primera fiesta local,local,no,si,2026-09-20,tienda,"Dato de la tienda, 2026-09-10 (llamada a la tienda): cerrada el lunes entero. Coherente con 2025 (las dos locales cerraron)",cerrado
+2026-09-28,2026,lunes,Segunda fiesta local,local,no,si,2026-09-27,tienda,"Dato de la tienda, 2026-09-10 (llamada a la tienda): cerrada el lunes entero. Coherente con 2025 (las dos locales cerraron)",cerrado
+2026-10-12,2026,lunes,Fiesta Nacional de España,nacional,no,no,2026-10-12,oficial,Calendario laboral oficial,pendiente
+2026-11-02,2026,lunes,Todos los Santos,nacional,no,si,2026-11-01,oficial,Calendario laboral oficial,pendiente
+2026-12-07,2026,lunes,Día de la Constitución,nacional,no,si,2026-12-06,oficial,Calendario laboral oficial,pendiente
+2026-12-08,2026,martes,Inmaculada Concepción,nacional,no,no,2026-12-08,oficial,Calendario laboral oficial,pendiente
+2026-12-25,2026,viernes,Navidad,nacional,no,no,2026-12-25,oficial,Calendario laboral oficial,cerrado_fijo

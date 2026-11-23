@@ -1,0 +1,13 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos de la tienda: no se publican nunca
+datos_bruto/
+datos_limpio/
+
+# Por si acaso: nada con datos personales
+*declaracion*
+*Declaracion*
